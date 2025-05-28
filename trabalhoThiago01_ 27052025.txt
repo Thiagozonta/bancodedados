@@ -1,0 +1,13 @@
+FRAIBURGO - SANTA CATARINA 27/05/2025
+JOVEM PROGRAMADOR 
+PROFESSOR ANTONIO
+THIAGO ZONTA
+
+
+
+
+ex 1 TABELAS CRIADAS COM SUCESSO.
+ex 2 No banco de dados há registro de "Ana"= 4
+ex 3 No banco de dados há 3 registros de pessoas com o nome "Carlos", mas não são as mesmas pessoas pois os (CPF's) são diferentes..
+ex 4 Não existem clientes com cpf repetidos
+ex 5 Existem 3 produtos com os preços maior que 20 Reais..
